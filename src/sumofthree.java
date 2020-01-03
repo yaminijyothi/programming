@@ -7,7 +7,7 @@ public class sumofthree {
          System.out.println("enter size of the array");
          int n=sc.nextInt();
          int i,j,k,count=0;
-         System.out.println("enter the "+n+ "elements");
+         System.out.println("enter  the "+n+ "elements");
          int a[]=new int[n];
          for(i=0;i<n;i++)
          {
