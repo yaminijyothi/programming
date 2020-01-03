@@ -13,8 +13,11 @@ public class primenumbers {
 					}
 				
 				if(count==2)
+					
 					System.out.println(lwr);
+				
 				}
+				
 
 	}
 
